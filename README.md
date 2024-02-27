@@ -1,3 +1,3 @@
-# Design unique DevSecOps Stack
+# Design Transformation DevSecOps Methodology,
 
 12 Steps to transformation of enterprise security.
